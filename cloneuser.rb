@@ -1,6 +1,5 @@
 require 'net/http'
 require 'json'
-require 'awesome_print'
 
 puts "Which Github user would you like to clone today?"
 print "User: "
