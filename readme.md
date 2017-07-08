@@ -1,6 +1,6 @@
-#Github Clone User
+# Github Clone User
 A simple script to copy all of the repos that belong to a github user
-##Usage
+## Usage
 Clones the repositories to the folder it's run in. 
 To clone reddit's repositories to a folder called `reddit_backup`, install ruby and type the following into the command line:
 
